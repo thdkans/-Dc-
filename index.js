@@ -6,9 +6,9 @@ const ROOM_STATUS = {
 };
 
 // Discord bot token and channel ID
-const token = 'MTM0NzExNTU1NzU1OTg2MTMwMQ.GOE-5X.vLQtonSgbrAnVOFBY5vTOwhrFfo-3dcqBZs18M';
-const channelId = '1347039291049775114';
-const roomId = 'leesh2148';
+const token = '';
+const channelId = '';
+const roomId = '';
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
